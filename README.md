@@ -7,7 +7,7 @@ You can also see all your workouts at a glance and on a map. Build with JavaScri
 
 ## -> [Click to view](https://distorrrtion.github.io/Mapty-App/)
 
-Built with
+# Built with
 Html, Sass, VanillaJS
 
 Generate map from leaflet library
